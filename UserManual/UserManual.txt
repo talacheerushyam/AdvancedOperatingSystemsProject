@@ -1,0 +1,15 @@
+1. Create a new project.
+
+2. Copy the extracted code into the  (src) section of the project.
+
+3. Run the code from the TaskExecutorTask.java 
+( At present, we have taken a set of 500 tasks just for debugging purpose)
+
+4. You can make any changes or modifications you want to make.
+
+
+
+
+IDE used:
+
+We can use any IDE Ex:ECLIPSE to run the code.
